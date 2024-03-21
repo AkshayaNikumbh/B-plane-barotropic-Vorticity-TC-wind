@@ -2,8 +2,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jan 14 18:07:42 2021
+Authors: James Penn, Geoffrey K. Vallis
 
-@author: akshaya
+edited by: akshaya C. Nikumbh
 """
 
 from __future__ import (division, print_function)
